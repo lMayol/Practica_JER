@@ -83,7 +83,7 @@ Cuando haya más de un jugador en la partida, ambos pueden realizar la misma acc
 ![Carmen Gloria](./images/Carmen%20Gloria.jpg)
 
 ### Logotipo
-![Logotipo](./images/JRLogoFinal.jpg)
+![Logotipo](./images/JRLogoFinal.png)
 ![Portada](./images/Portada.jpg)
 
 ### Descripción Visual
