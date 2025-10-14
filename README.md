@@ -35,7 +35,7 @@ Salomé renuncia a todo e invierte todo su dinero por su sueño (restaurante), y
 
 #### Obstaculos en el avance de la historia
 
-- Casero pide más dinero, pone trabas, se mete en todo en respecto al local, etc.
+- El casero pide más dinero, pone trabas, se mete en todo en respecto al local, etc.
 
 - Algunos alimentos tienen anisakis y hay que congelarlos, sino la gente empieza a ponerse mala y llega un punto que si hay “x” número de gente mala se corre la voz y viene un señor (inspección de sanidad) a ponerte una multa por no cumplir la inspección, la multa se tendrá que pagar antes de que caiga la noche al igual que la cuota diaria del restaurante.
 
@@ -84,6 +84,22 @@ Al principio el local será básico e insuficiente para poder atender a una gran
 **Factor Multijugador:**
 Cuando haya más de un jugador en la partida, ambos pueden realizar la misma acción o alternarse entre ellas para facilitar el progreso en el juego.
 
+### Escenarios
+
+**Muelle:**
+El espacio donde se pesca es una escena diseñada en 2D con ángulo contrapicado, es un muelle de madera con un puesto de venta de cebos y cañas de 7 de la mañana a 5 de la tarde. Se puede pescar poniéndote en alguna de las casillas que delimitan el borde del muelle apuntando al agua con la caña.
+
+**Restaurante:**
+El espacio del restaurante es una escena diseñada en 2D con ángulo contrapicado. Consta de una barra con varios taburetes y una espacio con mesas desde 2 hasta 4 personas, una gramola y una diana de dardos.
+
+**Cocina:**
+El espacio donde se cocina es una escena diseñada en 2D con ángulo contrapicado para tener visibilidad a todo el espacio de trabajo, pero está sujeta a cambios para implementarla en 3D. 
+
+Es una mesa de trabajo donde se da lugar a la mecánica principal del juego de cocinar. Para ello lo hemos dividido en tres espacios de trabajo: 
+- En primer lugar, el área de limpieza del pez o molusco, subdividido en otras tres áreas: descamar, destripar y limpiar con agua. 
+- Segunda mesa de trabajo, elaboración del plato, con otras tres subclases: cortar, condimentar y cocinar. 
+- Por último, se encuentra la mesa de emplatado, donde se finaliza el plato combinándolo con los acompañamientos o guarniciones solicitados por el cliente.
+
 ## Imagen y Diseño Visual
 ### Bocetos
 ![Salomé](./images/Salomé.jpg)
@@ -101,7 +117,7 @@ Cuando haya más de un jugador en la partida, ambos pueden realizar la misma acc
 
 Los personajes diseñados con un estilo caricaturesco y expresivo. Cada figura posee rasgos distintivos que reflejan su personalidad y rol dentro del juego: pescadores, cocineros y clientes del restaurante, todos con proporciones ligeramente exageradas y trazos fluidos. El logotipo combina un pez estilizado con una tipografía orgánica y curvada, evocando dinamismo y frescura.
 
-### Aspectos Tecnicos 
+### Aspectos Técnicos 
 
 Las ilustraciones fueron realizadas digitalmente, utilizando líneas de contorno nítidas y sombreados mínimos para facilitar su posterior vectorización o animación. El logotipo y la portada están preparados para adaptarse tanto a formatos impresos como digitales (menús del juego, icono de aplicación, carteles promocionales, etc.).
 
