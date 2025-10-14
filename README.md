@@ -49,6 +49,8 @@ Salomé renuncia a todo e invierte todo su dinero por su sueño (restaurante), y
 
 El objetivo del juego es sobrevivir el día a día mezclando las mecánicas principales, tanto para obtener los ingresos suficientes como para subsistir con los pagos e inconvenientes que nos irán surgiendo conforme se vaya progresando en el propio juego. La dificultad de este radica en que según se vayan mejorando los elementos, alimentos y demás también se nos impondrán obstáculos y dificultades a la hora de realizar las distintas tareas, además de que los pagos irán en aumento conforme se avance.
 
+### Mecánicas
+
 El juego se basa en dos mecánicas principales: pesca y cocina.
 
 **Pesca:**
@@ -72,6 +74,37 @@ Al principio el local será básico e insuficiente para poder atender a una gran
 Cuando haya más de un jugador en la partida, ambos pueden realizar la misma acción o alternarse entre ellas para facilitar el progreso en el juego.
 
 ## Imagen y Diseño Visual
+### Bocetos
+![Salomé](./images/Salomé.jpg)
+![Mané](./images/Mane.jpg)
+![Sabrina](./images/Sabrina.jpg)
+![Juan Francisco](./images/JuanFrancisco.jpg)
+![Franco](./images/Franco.jpg)
+![Carmen Gloria](./images/Carmen%20Gloria.jpg)
+
+### Logotipo
+![Logotipo](./images/JRLogoFinal.jpg)
+![Portada](./images/Portada.jpg)
+
+### Descripción Visual
+
+Los personajes diseñados con un estilo caricaturesco y expresivo. Cada figura posee rasgos distintivos que reflejan su personalidad y rol dentro del juego: pescadores, cocineros y clientes del restaurante, todos con proporciones ligeramente exageradas y trazos fluidos. El logotipo combina un pez estilizado con una tipografía orgánica y curvada, evocando dinamismo y frescura.
+
+### Aspectos Tecnicos 
+
+Las ilustraciones fueron realizadas digitalmente, utilizando líneas de contorno nítidas y sombreados mínimos para facilitar su posterior vectorización o animación. El logotipo y la portada están preparados para adaptarse tanto a formatos impresos como digitales (menús del juego, icono de aplicación, carteles promocionales, etc.).
+
+La cámara del juego sería en 2D con un movimiento horizontal.
+
+### Estilo Visual
+
+El estilo se sitúa entre el cartoon clásico y el cómic europeo, con un énfasis en la expresividad facial y corporal. Las líneas son limpias pero con un trazo humano, que refuerza la identidad artesanal.
+Este enfoque visual busca transmitir calidez, humor y empatía, cualidades que encajan con la narrativa del juego centrada en la pesca, la comunidad y la gestión cotidiana del restaurante.
+
+### Inspiración
+La estética se inspira en producciones como “Stardew Valley”, “Animal Crossing” y películas de Studio Ghibli, donde los personajes y los entornos transmiten sencillez y vida cotidiana con un toque poético.
+También toma referencias del arte costumbrista y de la ilustración mediterránea, reflejando un ambiente pesquero tradicional reinterpretado con un tono moderno y amable.
+
 ## Sonido
 
 #### Banda sonora:
