@@ -5,7 +5,7 @@
 Naroa Jiménez | n.jimenezm.2023@alumnos.urjc.es | naaroojimz@gmail.com
 Alonso Cancela | a.cancela.2023@alumnos.urjc.es | alonsocancela@gmail.com
 Ayoze González | a.gonzalezmo.2023@alumnos.urjc.es | ayoze28gm@gmail.com
-Ignacio Perea | i.perea.2023@alumnos.urjc.es | 
+Ignacio Perea | i.perea.2023@alumnos.urjc.es | ipereasedano@gmail.com
 
 ### Especificaciones básicas
 El juego a diseñar se trata de un “slice of life” (un cachito de vida) de simulación, gestión, dificultad progresiva dirigido a un público bastante genérico, rangos desde la adolescencia a la adultez. Las plataformas elegidas para el juego, inicialmente sería en ordenador, pero se podría implementar también para consolas. 
