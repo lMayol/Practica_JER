@@ -115,7 +115,7 @@ Las distintas interacciones tendrán sonidos únicos. Algunos efectos a destacar
 - Interfaz Principal: en la pantalla de juego se muestra una serie de estadísticas: dinero, dia, hora, progreso, etc; el icóno del menú (timón); el botón a usarse para interactuar con algo; etc.
 
 ### Diagrama de flujo
-![Diagrama de flujo de interfaces](./images/Diagrama de flujo.png)
+![Diagrama de flujo de interfaces](images/Diagrama de flujo.png)
 
 ## Comunicación 
 
