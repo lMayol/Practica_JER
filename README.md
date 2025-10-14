@@ -1,5 +1,12 @@
 # Practica_JER
 # GDD: HealFish
+
+## Integrantes
+Naroa Jiménez | n.jimenezm.2023@alumnos.urjc.es | 
+Alonso Cancela | a.cancela.2023@alumnos.urjc.es | 
+Ayoze González | a.gonzalezmo.2023@alumnos.urjc.es | ayoze28gm@gmail.com
+Ignacio Perea | i.perea.2023@alumnos.urjc.es |
+
 ### Especificaciones básicas
 El juego a diseñar se trata de un “slice of life” (un cachito de vida) de simulación, gestión, dificultad progresiva dirigido a un público bastante genérico, rangos desde la adolescencia a la adultez. Las plataformas elegidas para el juego, inicialmente sería en ordenador, pero se podría implementar también para consolas. 
 
