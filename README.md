@@ -121,7 +121,7 @@ Las distintas interacciones tendrán sonidos únicos. Algunos efectos a destacar
 
 - Inventario | Por Botón | Caja de Pesca*
 
-- Menú del Juego | Por Botón o Icono en Pantalla | Timón*
+- Menú del Juego | Por Botón o Icóno en Pantalla | Timón*
 
 - Opciones | Desde el Menú Principal o Menú In Game | Sonda*
 
