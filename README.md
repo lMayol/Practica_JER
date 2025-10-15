@@ -108,8 +108,8 @@ Por último, se encuentra la mesa de emplatado, donde se finaliza el plato combi
 ![Juan Francisco](./images/JuanFrancisco.jpg)
 ![Franco](./images/Franco.jpg)
 ![Carmen Gloria](./images/Carmen%20Gloria.jpg)
-![Ejemplo Cocina](./images/Ejemplo%20cocina.jpg).
-![Ejemplo interfaz](./images/Ejemplo%20interfaz.jpg).
+![Ejemplo Cocina](./images/Ejemplo%20cocina.jpg)
+![Ejemplo interfaz](./images/Ejemplo%20interfaz.jpg)
 
 ### Logotipo
 ![Logotipo](./images/JRLogoFinal.png)
