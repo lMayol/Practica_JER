@@ -162,17 +162,17 @@ Las distintas interacciones tendrán sonidos únicos. Algunos efectos a destacar
 
 - Menú de Restaurante: el menú principal se asemejaría al menú de un restaurante, siendo las opciones de la carta los botones de “Nueva Partida”, “Continuar”, “Opciones”, “Créditos”, “Salir”.
 
-- Caja de Pesca: al abrir el inventario, animación de una caja de pesca abriéndose, los compartimentos son los slots de inventario, aumentando con mejoras
+- Caja de Pesca: al abrir el inventario, animación de una caja de pesca abriéndose, los compartimentos son los franja de inventario, aumentando con mejoras. 
 
 - Timón: tras entrar al menú, se despliega con una animación un timón en pantalla, donde cada cabilla sirve de botón (continuar, guardar, cargar, opciones, salir al menú), al seleccionar una de las cabillas, el timón se mueve hasta “poner ese rumbo”.
 
-- Sonda: el menú de opciones imita una sonda al estilo “Pip Boy” del “ Fallout 4 ”
+- Sonda: el menú de opciones imita una sonda al estilo “Pip Boy” del “Fallout 4”.
 
-- Cocinar: estilo Coocking Mama con minijuegos interactivos (cortar, pelar, freir, emplatar…), variando la interfaz dependiendo de la tarea.
+- Cocinar: estilo "Coocking Mama" con minijuegos interactivos (cortar, pelar, freir, emplatar…), variando la interfaz dependiendo de la tarea.
 
-- Pesca: estilo Stardew Valley, varía de si la pesca es en tierra o en barco.
+- Pesca: estilo "Stardew Valley2, varía de si la pesca es en tierra o en barco.
 
-- Interfaz Principal: en la pantalla de juego se muestra una serie de estadísticas: dinero, dia, hora, progreso, etc; el icóno del menú (timón); el botón a usarse para interactuar con algo; etc.
+- Interfaz Principal: en la pantalla de juego se muestra una serie de estadísticas: dinero, día, hora, progreso, etc; el icóno del menú (timón); el botón a usarse para interactuar con algo; etc.
 
 ### Diagrama de flujo
 ![Diagrama de flujo](./images/Diagrama%20de%20flujo.png)
