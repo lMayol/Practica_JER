@@ -86,19 +86,19 @@ Cuando haya más de un jugador en la partida, ambos pueden realizar la misma acc
 
 ### Escenarios
 
-**Muelle:**
-El espacio donde se pesca es una escena diseñada en 2D con ángulo contrapicado, es un muelle de madera con un puesto de venta de cebos y cañas de 7 de la mañana a 5 de la tarde. Se puede pescar poniéndote en alguna de las casillas que delimitan el borde del muelle apuntando al agua con la caña.
+**Muelle:** 
+El espacio donde se pesca es una escena diseñada en 2D con ángulo contrapicado, es un muelle de madera con un puesto de venta de cebos y cañas de 7 de la mañana a 5 de la tarde. Se puede pescar poniéndote en alguna de las casillas que delimitan el borde del muelle apuntando al agua con la caña. La interfaz indicará al jugador cuándo podrá sacar el pez o molusco pescado. La escena está orientada a la mecánica de pesca, pero gracias a la economía interna del juego se podrán conseguir avances en el muelle, como por ejemplo, un soporte estático o trampas, para que el jugador pueda conseguir peces de manera automática sin necesidad de estar constantemente pescando. Así mismo, conforme avance el juego y el grupo de jugadores consigan más dinero el muelle se podrá agrandar. 
 
 **Restaurante:**
-El espacio del restaurante es una escena diseñada en 2D con ángulo contrapicado. Consta de una barra con varios taburetes y una espacio con mesas desde 2 hasta 4 personas, una gramola y una diana de dardos.
+El espacio del restaurante es una escena diseñada en 2D con ángulo contrapicado. Consta de una barra con varios taburetes y una espacio con mesas desde 2 hasta 4 personas, una gramola y una diana de dardos. Este es un espacio diseñado para la mecánica de tomar nota a los clientes y que segundos o terceros jugadores sirvan los platos previamente cocinados. También deberán tener el establecimiento limpio para seguir atendiendo a más clientes y ofrecerles mesa, y muy importante, para no tener ninguna multa de sanidad.  
 
 **Cocina:**
 El espacio donde se cocina es una escena diseñada en 2D con ángulo contrapicado para tener visibilidad a todo el espacio de trabajo, pero está sujeta a cambios para implementarla en 3D. 
 
 Es una mesa de trabajo donde se da lugar a la mecánica principal del juego de cocinar. Para ello lo hemos dividido en tres espacios de trabajo: 
-- En primer lugar, el área de limpieza del pez o molusco, subdividido en otras tres áreas: descamar, destripar y limpiar con agua. 
-- Segunda mesa de trabajo, elaboración del plato, con otras tres subclases: cortar, condimentar y cocinar. 
-- Por último, se encuentra la mesa de emplatado, donde se finaliza el plato combinándolo con los acompañamientos o guarniciones solicitados por el cliente.
+En primer lugar, el área de limpieza del pez o molusco, subdividido en otras tres áreas: descamar, destripar y limpiar con agua. 
+Segunda mesa de trabajo, elaboración del plato, con otras tres subclases: cortar, condimentar y cocinar. 
+Por último, se encuentra la mesa de emplatado, donde se finaliza el plato combinándolo con los acompañamientos o guarniciones solicitados por el cliente.
 
 ## Imagen y Diseño Visual
 ### Bocetos
