@@ -113,19 +113,14 @@ Los efectos de sonido del juego permiten ofrecer una experiencia mucho más inme
 
 ### **Explicaciones:**
 
-- Menú de Restaurante: el menú principal se asemejaría al menú de un restaurante, siendo las opciones de la carta los botones de “Nueva Partida”, “Continuar”, “Opciones”, “Créditos”, “Salir”.
+- En el menú principal se nos mostrarán las opciones de ir a un menú de ajustes, créditos o jugar a la experiencia. En este se enseñará una imagen del logotipo del juego con su nombre incluido.
 
-- Caja de Pesca: al abrir el inventario, animación de una caja de pesca abriéndose, los compartimentos son los franja de inventario, aumentando con mejoras. 
+- En el menú del juego se nos mostrarán las teclas correspondientes asignadas a la pesca de peces. Además, tiene un menú de pausa donde se puede parar el juego en cualquier momento.
+  
+- Desde el menú de pausa se podrá volver al juego continuando con la partida, ir al menú de opciones o volver a la pantalla de inicio, seleccionando el botón salir.
+  
+- En el menú de ajustes se podrá modificar el nivel del audio, tanto del sonido de fondo como de los botones. También se podrá volver o al menú inicial, en caso de venir desde ahí; o al menú de pausa.
 
-- Timón: tras entrar al menú, se despliega con una animación un timón en pantalla, donde cada cabilla sirve de botón (continuar, guardar, cargar, opciones, salir al menú), al seleccionar una de las cabillas, el timón se mueve hasta “poner ese rumbo”.
-
-- Sonda: el menú de opciones imita una sonda al estilo “Pip Boy” del “Fallout 4”.
-
-- Cocinar: estilo "Coocking Mama" con minijuegos interactivos (cortar, pelar, freir, emplatar…), variando la interfaz dependiendo de la tarea.
-
-- Pesca: estilo "Stardew Valley2, varía de si la pesca es en tierra o en barco.
-
-- Interfaz Principal: en la pantalla de juego se muestra una serie de estadísticas: dinero, día, hora, progreso, etc; el icóno del menú (timón); el botón a usarse para interactuar con algo; etc.
 
 ### Diagrama de flujo
 ![Diagrama de flujo](./images/Diagrama%20de%20flujo.png)
