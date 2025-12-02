@@ -1,4 +1,5 @@
 import Phaser from 'phaser';
+import { GameSettings } from '../GameSettings.js';
 
 export class CreditsScene extends Phaser.Scene {
 
@@ -6,24 +7,55 @@ export class CreditsScene extends Phaser.Scene {
         super('CreditsScene');
     }
 
-    create(data) {
-        this.add.rectangle(400, 300, 800, 600, 0x000000, 0.7);
+    init(data) {
+        this.previous = data.previous || "MenuScene";
+    }
 
-        this.add.text(400, 200, 'Credits', {
-            fontSize: '64px',
-            color: '#ffffff'
-        }).setOrigin(0.5);
+    create() {
+        const cx = this.cameras.main.width / 2;
+        const cy = this.cameras.main.height / 2;
 
-        const menuBtn = this.add.text(400, 400, 'Return to Main Menu', {
-            fontSize: '32px',
-            color: '#ffffff',
-        }).setOrigin(0.5)
-        .setInteractive({ useHandCursor: true })
-        .on('pointerover', () => menuBtn.setColor('#ff8888'))
-        .on('pointerout', () => menuBtn.setColor('#ffffff'))
-        .on('pointerdown', () => {
-            this.scene.stop(data.originalScene);
-            this.scene.start('MenuScene');
+        // fondo 
+        this.add.image(0, 0, 'menuBg')
+            .setOrigin(0, 0)
+            .setDisplaySize(
+                cx * 2, 
+                cy * 2
+            );
+
+        // titulo
+        this.add.image(cx + 50, cy - 350, 'creditTit')
+            .setScale(0.8) 
+            .setOrigin(0.5);
+
+        // texto
+        this.add.image(cx + 50, cy + 80, 'creditTex')
+            .setScale(0.6) 
+            .setOrigin(0.5);
+        
+        // pescador
+        this.add.image(cx - 550, cy, 'pesc2Im')
+            .setScale(0.6) // tamaño base
+            .setOrigin(0.5);
+        
+        // boton volver
+        const backBtn = this.add.image(cx + 700, cy + 300, 'btnBack')
+            .setScale(0.1) // tamaño base
+            .setOrigin(0.5)
+            .setInteractive({ useHandCursor: true });
+        
+            backBtn.on('pointerover', () => { 
+            backBtn.setScale(0.14);
+            });
+            backBtn.on('pointerout', () => backBtn.setScale(0.1));
+        
+            backBtn.on('pointerdown', () => {
+                this.sound.play('clickSound', { volume: GameSettings.sfxVolume });
+                // Cerrar configuración
+                this.scene.stop('CredtiScene');
+        
+                // Volver exactamente a la escena anterior
+                this.scene.start(this.previous);
         });
     }
 }
