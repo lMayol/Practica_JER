@@ -58,7 +58,7 @@ Además, una vez haya terminado el tiempo de pesca, se mostrará cuál  de los d
 
 ## Imagen y Diseño Visual
 ### Bocetos
-![Abuela Carmen Gloria](./recursosGraficos/Abuela.jpg)
+![AbuelaCarmenGloria](./recursosGraficos/Abuela.jpg)
 ![Chica del pueblo: Sabrina](./recursosGraficos/Chica.jpg)
 ![Friki: Franco](./recursosGraficos/Friki.jpg)
 ![Pescador: Mané](./recursosGraficos/Pescador.jpg)
