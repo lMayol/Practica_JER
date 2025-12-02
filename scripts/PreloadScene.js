@@ -41,8 +41,8 @@ export class PreloadScene extends Phaser.Scene {
         this.load.image('btnCredits', 'assets/images/Creditos.png');
         this.load.image('btnResume', 'assets/images/ReanudarButton.png');
         this.load.image('btnExit', 'assets/images/Salir.png');
-        this.load.image('btnSkip', 'assets/images/SkipButton.png');
-        this.load.image('btnBack', 'assets/images/BackButton.png');
+        this.load.image('btnSkip', 'assets/images/Saltar.png');
+        this.load.image('btnBack', 'assets/images/Atras.png');
 
         // pantalla instrucciones y controles
         this.load.image('instIm', 'assets/images/Instrucciones.png');
