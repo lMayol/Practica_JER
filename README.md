@@ -69,7 +69,7 @@ Además, una vez haya terminado el tiempo de pesca, se mostrará cuál  de los d
 
 
 
-![Juan Francisco](./images/JuanFrancisco.jpg)
+![JuanFrancisco](./images/JuanFrancisco.jpg)
 
 ![Ejemplo Cocina](./images/Ejemplo%20cocina.jpg)
 ![Ejemplo interfaz](./images/Ejemplo%20interfaz.jpg)
