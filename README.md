@@ -58,12 +58,19 @@ Además, una vez haya terminado el tiempo de pesca, se mostrará cuál  de los d
 
 ## Imagen y Diseño Visual
 ### Bocetos
-![Salomé](./images/Salomé.jpg)
-![Mané](./images/Mane.jpg)
-![Sabrina](./images/Sabrina.jpg)
+![Abuela Carmen Gloria](./recursosGraficos/Abuela.jpg)
+![Chica del pueblo: Sabrina](./recursosGraficos/Chica.jpg)
+![Friki: Franco](./recursosGraficos/Friki.jpg)
+![Pescador: Mané](./recursosGraficos/Pescador.jpg)
+![Pescador:Yayo](./recursosGraficos/YAYO.jpg)
+![Reloj](./recursosGraficos/Reloj.jpg)
+![Ajustes Button](./recursosGraficos/Ajustes.jpg)
+![Ajustes Titulo](./recursosGraficos/Ajustes.jpg)
+
+
+
 ![Juan Francisco](./images/JuanFrancisco.jpg)
-![Franco](./images/Franco.jpg)
-![Carmen Gloria](./images/Carmen%20Gloria.jpg)
+
 ![Ejemplo Cocina](./images/Ejemplo%20cocina.jpg)
 ![Ejemplo interfaz](./images/Ejemplo%20interfaz.jpg)
 
