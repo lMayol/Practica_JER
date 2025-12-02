@@ -130,7 +130,7 @@ Los efectos de sonido del juego permiten ofrecer una experiencia mucho más inme
 
 
 ### Diagrama de flujo
-![Diagrama de flujo](./images/Diagrama%20de%20flujo.png)
+![Diagrama de flujo](./images/DiagramaDeFlujo.drawio.png)
 
 ## Comunicación 
 
