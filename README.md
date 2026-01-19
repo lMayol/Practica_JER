@@ -81,7 +81,6 @@ Por otra parte, si se juega la versión online, ambos personajes se situarán en
 ![Pescador:Yayo](./images/YAYO.png)
 ![Carrete Botón](./images/CarreteBotón.png)
 ![Cebo Botón](./images/CeboBotón.png)
-![Comprar Pantalla](./images/Comprar_pantalla.png)
 ![Fondo dos Muelles](./images/FondoDosMuelles.png)
 ![Mensaje Botón](./images/MensajesBotón.png)
 ![Oponente desconectado](./images/OpenteDesconectado.png)
@@ -95,13 +94,20 @@ Por otra parte, si se juega la versión online, ambos personajes se situarán en
 ![Salmón Botón](./images/SalmónBotón.png)
 ![Reparar 1 Chica](./images/Reparar1Chica.png)
 ![Repara 1 Chico](./images/Repara1Chico.png)
-
-
-
+![Tijeras botón](./images/TijerasBotón.png)
 ![Fondo Juego](./images/Fondo_juego.png)
 ![Fondo Menús](./images/Fondo.png)
- 
-![Pantalla Victoria](./images/PantallaVictoria.png)
+![Tienda](./images/IMG_0366.png)
+![Tienda2](./images/IMG_0367.png)
+![Perdedor Pantalla](./images/perdedorPantalla.png)
+![Ganador Pantalla](./images/ganadorPantalla.png)
+![Instrucciones multi](./images/instruccionesMulti.png)
+![Instrucciones multijugador](./images/intruccionesMultijugador.png)
+![Tijeras botón](./images/tijeraBoton.png)
+![Unirse botón](./images/unirseBoton.png)
+![Unirse y crear sala](./images/unirseYcrearPantalla.png)
+![1 chica](./images/animations/1Chica.png)
+![1 Yayo](./images/animations/1Yayo.png) 
 
 ### Logotipo
 ![Logotipo](./images/JRLogoFinal.png)
