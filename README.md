@@ -80,6 +80,22 @@ Por otra parte, si se juega la versión online, ambos personajes se situarán en
 ![Pescador: Mané](./images/Pescador.png)
 ![Pescador:Yayo](./images/YAYO.png)
 ![Carrete Botón](./images/CarreteBotón.png)
+![Cebo Botón](./images/CeboBotón.png)
+![Comprar Pantalla](./images/Comprar_pantalla.png)
+![Fondo dos Muelles](./images/FondoDosMuelles.png)
+![Mensaje Botón](./images/MensajesBotón.png)
+![Oponente desconectado](./images/OpenteDesconectado.png)
+![Nueva Opción](./images/NuevaOpción.png)
+![Pantalla Login](./images/PantallaLoginBien.png)
+![Pesca Salmón chica](./images/PescaSalmónAnim.png)
+![Pez Plateado Pesca Chico](./images/PezPlateadoPescaChico.png)
+![Pez Plateado Botón](./images/PezPlataBotón.png)
+![Pez Rosa Botón](./images/RosaBotón.png)
+![Pez Verde Botón](./images/PezVerdeBotón.png)
+![Salmón Botón](./images/SalmónBotón.png)
+![Reparar 1 Chica](./images/Reparar1Chica.png)
+![Reparar 1 Chico](./images/Reparar1Chico.png)
+
 
 
 ![Fondo Juego](./images/Fondo_juego.png)
@@ -147,7 +163,7 @@ Los efectos de sonido del juego permiten ofrecer una experiencia mucho más inme
 
 
 ### Diagrama de flujo
-![Diagrama de flujo](./images/IMG_0391.jpeg)
+![Diagrama de flujo](./images/IMG_0392.jpeg)
 
 ## Comunicación 
 
