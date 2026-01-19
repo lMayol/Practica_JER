@@ -81,7 +81,7 @@ Por otra parte, si se juega la versión online, ambos personajes se situarán en
 ![Pescador:Yayo](./images/YAYO.png)
 ![Carrete Botón](./images/CarreteBotón.png)
 ![Cebo Botón](./images/CeboBotón.png)
-![Comprar Pantalla](./images/Comprar pantalla.png)
+![Comprar Pantalla](./images/Comprar_pantalla.png)
 ![Fondo dos Muelles](./images/FondoDosMuelles.png)
 ![Mensaje Botón](./images/MensajesBotón.png)
 ![Oponente desconectado](./images/OpenteDesconectado.png)
