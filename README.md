@@ -79,25 +79,12 @@ Por otra parte, si se juega la versión online, ambos personajes se situarán en
 ![Friki: Franco](./images/Friki.png)
 ![Pescador: Mané](./images/Pescador.png)
 ![Pescador:Yayo](./images/YAYO.png)
-![Reloj](./images/Reloj.png)
-![Ajustes Button](./images/Ajustes.png)
-![Ajustes Titulo](./images/AjustesTitulo.png)
-![Atrás botón](./images/Atras.png)
-![Controles explicación](./images/ControlesExplicacion.png)
-![Créditos Texto](./images/CreditosTexto.png)
-![Créditos Título](./images/CreditosTitulo.png)
-![Créditos Botón](./images/Creditos.png)
+![Carrete Botón](./images/CarreteBotón.png)
+
+
 ![Fondo Juego](./images/Fondo_juego.png)
 ![Fondo Menús](./images/Fondo.png)
-![Instrucciones](./images/Instrucciones.png)
-![Jugar Botón](./images/Jugar.png)
-![Música Título](./images/Musica.png)
-![Pausa Título](./images/PausaTitulo.png)
-![SFX Título](./images/SFX.png)
-![Reanudar Botón](./images/ReanudarButton.png)
-![Salir Botón](./images/Salir.png)
-![Saltar Botón](./images/Saltar.png)
-![Fondo Tecla](./images/Tecla.png)
+ 
 ![Pantalla Victoria](./images/PantallaVictoria.png)
 
 ### Logotipo
