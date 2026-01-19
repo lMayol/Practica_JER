@@ -101,7 +101,6 @@ Por otra parte, si se juega la versión online, ambos personajes se situarán en
 ![Tienda2](./images/IMG_0367.png)
 ![Perdedor Pantalla](./images/perdedorPantalla.png)
 ![Ganador Pantalla](./images/ganadorPantalla.png)
-![Instrucciones multi](./images/instruccionesMulti.png)
 ![Instrucciones multijugador](./images/intruccionesMultijugador.png)
 ![Tijeras botón](./images/tijeraBoton.png)
 ![Unirse botón](./images/unirseBoton.png)
