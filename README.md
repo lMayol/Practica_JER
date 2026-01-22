@@ -192,9 +192,9 @@ Una vez terminadas ambas fases, ya se puede decir que el juego se encuentra en s
 - itch.io: [https://lmayol.itch.io/healfish](https://lmayol.itch.io/healfish)
 
 - newgrounds: [https://www.newgrounds.com/portal/view/1015849](https://www.newgrounds.com/portal/view/1015849)
- 
-- gamejolt: [https://gamejolt.com/games/healfish/1045316](https://gamejolt.com/games/healfish/1045316)
    
-- crazygames: [https://gamejolt.net/?token=JU453YYDMmfAuuuyJyMH9oFphFJ6Bv](https://gamejolt.net/?token=JU453YYDMmfAuuuyJyMH9oFphFJ6Bv)
+- gamejolt: [https://gamejolt.net/?token=JU453YYDMmfAuuuyJyMH9oFphFJ6Bv](https://gamejolt.net/?token=JU453YYDMmfAuuuyJyMH9oFphFJ6Bv)
+
+- crazygames:
 
 
