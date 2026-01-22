@@ -195,6 +195,6 @@ Una vez terminadas ambas fases, ya se puede decir que el juego se encuentra en s
    
 - gamejolt: [https://gamejolt.net/?token=JU453YYDMmfAuuuyJyMH9oFphFJ6Bv](https://gamejolt.net/?token=JU453YYDMmfAuuuyJyMH9oFphFJ6Bv)
 
-- crazygames:
+- crazygames: [https://www.crazygames.com/preview/ffe3ea48-e97f-4da1-a891-4c616df9adeb?sdk_debug=true&gameBuildId=c38db95c-f8f1-4062-9241-4bf0c4c99007&qaTool=true&disableSubmitQA=true&role=developer](https://www.crazygames.com/preview/ffe3ea48-e97f-4da1-a891-4c616df9adeb?sdk_debug=true&gameBuildId=c38db95c-f8f1-4062-9241-4bf0c4c99007&qaTool=true&disableSubmitQA=true&role=developer)
 
 
